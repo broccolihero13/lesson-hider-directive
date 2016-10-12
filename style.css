@@ -1,0 +1,11 @@
+.lessonBullet {
+    list-style: none;
+    display: block;
+    color: red;
+    width: 150px;
+}
+
+.lessonBullet:hover {
+    color: gray;
+    cursor: pointer;
+}
